@@ -9,7 +9,7 @@
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. Make sure it starts with ASITHA-MD;;;, or get session id from here, https://asitha.top",
+        "description": "Put your SESSION_ID here. Make sure it starts with ASITHA-MD;;;, Or get session id from VIEW DOCUMENTATION BUTTON",
         "value":"",
         "required": true
 
