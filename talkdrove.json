@@ -1,0 +1,19 @@
+
+{
+    "bot-name": "ASITHA-MD",
+    "description": "ASITHA MD is a powerful and feature-rich WhatsApp bot created by Asitha Chathuranga.",
+    "logo": "https://files.catbox.moe/npln3l.jpg",
+    "keywords": ["bot", "whatsapp", "automation", "asithamd", "byimaxz"],
+    "documentation-link": "https://asitha.top",
+    "owner-verification":"danajxima@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {
+        "description": "Put your SESSION_ID here. Make sure it starts with ASITHA-MD;;;, or get session id from here, https://asitha.top",
+        "value":"",
+        "required": true
+
+      }
+    }
+  
+    }
